@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1462744152 source:d:\jacek\nauka_c++\projekt_po1\kuchnia.cpp
+	<iostream>
+	"kuchnia.h"
+	"Obiekt.h"
+	"Lampka.h"
+
+1462303946 d:\jacek\nauka_c++\projekt_po1\kuchnia.h
+	<iostream>
+	"Pomieszczenie.h"
+
+1462784348 source:d:\jacek\nauka_c++\projekt_po1\main.cpp
+	<iostream>
+	<vector>
+	"Sterownik.h"
+
+1462898315 source:d:\jacek\nauka_c++\projekt_po1\dom.cpp
+	<iostream>
+	<vector>
+	"Dom.h"
+	"Pomieszczenie.h"
+
+1462739730 d:\jacek\nauka_c++\projekt_po1\dom.h
+	<iostream>
+	<vector>
+	"Pomieszczenie.h"
+	"kuchnia.h"
+	"Wc.h"
+
+1462898722 d:\jacek\nauka_c++\projekt_po1\pomieszczenie.h
+	<iostream>
+	<vector>
+	"Obiekt.h"
+
+1462733195 source:d:\jacek\nauka_c++\projekt_po1\pomieszczenie.cpp
+	<iostream>
+	"Pomieszczenie.h"
+
+1462899062 d:\jacek\nauka_c++\projekt_po1\wc.h
+	<iostream>
+	"Pomieszczenie.h"
+	"Obiekt.h"
+	"Lampka.h"
+
+1462899126 source:d:\jacek\nauka_c++\projekt_po1\wc.cpp
+	<iostream>
+	"Wc.h"
+
+1462351376 source:d:\jacek\nauka_c++\projekt_po1\obiekty.cpp
+	<iostream>
+	<vector>
+	"Obiekty.h"
+
+1462897898 source:d:\jacek\nauka_c++\projekt_po1\lampka.cpp
+	<iostream>
+	"Lampka.h"
+	"Pomieszczenie.h"
+
+1462732298 d:\jacek\nauka_c++\projekt_po1\lampka.h
+	<iostream>
+	"Obiekt.h"
+
+1462729542 d:\jacek\nauka_c++\projekt_po1\obiekty.h
+	<iostream>
+	<vector>
+	"Obiekt.h"
+
+1462898913 d:\jacek\nauka_c++\projekt_po1\obiekt.h
+	<iostream>
+
+1462350569 source:d:\jacek\nauka_c++\projekt_po1\obiekt.cpp
+
+1462897435 source:d:\jacek\nauka_c++\projekt_po1\sterownik.cpp
+	<iostream>
+	<cstdlib>
+	"Dom.h"
+	"Sterownik.h"
+	"Obiekt.h"
+
+1463658089 d:\jacek\nauka_c++\projekt_po1\sterownik.h
+	<iostream>
+	"Dom.h"
+
